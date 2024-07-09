@@ -25,7 +25,7 @@ class Projects extends React.Component {
       "RefuLink Canada": {
         title: "RefuLink Canada",
         desc:
-          "A third-person survival-mode game where you battle against time and space to return to Earth.",
+          "An iOS app that consolidates and presents comprehensive refugee information from official Canadian government sources, ensuring users receive curate and up-to-date information.",
         techStack: "Swift, Firebase",
         link: "https://github.com/shakeb03/RefSupport",
       //   open: "https://gazijarin.itch.io/no-mans-land",
@@ -56,7 +56,7 @@ class Projects extends React.Component {
       },
       "RefuLink Canada": {
         desc:
-          "A third-person survival-mode game where you battle against time and space to return to Earth.",
+          "An iOS app that consolidates and presents comprehensive refugee information from official Canadian government sources, ensuring users receive curate and up-to-date information.",
         techStack: "Swift, Firebase",
         link: "https://github.com/shakeb03/RefSupport",
       //   open: "https://gazijarin.itch.io/no-mans-land",
