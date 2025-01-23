@@ -86,9 +86,9 @@ const JobList = () => {
       jobTitle: "Software Development Engineer @",
       duration: "AUG 2022 - AUG 2023",
       desc: [
-        "Led and executed Web Application development project “Customer 360”, enhancing customer relationship management efficiency and achieving significant process improvements and cost savings.",
-        "Improved CRM usability by optimizing User Interface and usability, enhancing user experience and overall team productivity.",
-        "Presented comprehensive project reports to senior management, influencing strategic decisions."
+        "Designed and built scalable backend systems to improve performance and handle high-volume user traffic.",
+        "Developed user-friendly interfaces using modern front-end frameworks, enhancing usability and efficiency.",
+        "Streamlined deployment processes by implementing CI/CD pipelines, reducing release times and improving system reliability."
       ]
     },
     Freshprints: {
